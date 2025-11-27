@@ -1,9 +1,25 @@
-<h1>👋🏼 Hi there, I’m Woody</h1>
+# Hi there, I’m Woody 👋🏼
 
-I'm a senior undergraduate student at the University of Southern California studying <strong>Computer Science and Business Administration</strong>. Nice to meet you!
-- 👨🏻‍💻 I’m interested in: all aspects of the software development cycle, including <strong>full stack development</strong>, <strong>design</strong>, and <strong>product management</strong>
-- 🌎 I’m currently focused on: learning how to build responsive web applications using modern frameworks like React and Vue
-- 👨🏻‍🎓 I graduate in <strong>May 2022</strong>, and I'm looking for full-time opportunities post-graduation
-<hr>
-<h3>Want to learn more? Let's chat!</h3>
-📫 You can reach me at <a href="mailto:wwshin0128@gmail.com">wshin0128@gmail.com</a>
+I'm a Software Engineer with a passion for building scalable, user-centric products. I previously built enterprise financial tools @ **SAP** and studied Computer Science & Business @ **USC**. Nice to meet you!
+
+- 🔭 **Currently**: looking for SWE roles that focus on building things that matter
+- **Under the hood:**
+  - 🎨: React, Vue, JavaScript, Figma, an obsession with pixel-perfect components
+  - ⚙️: Java (Spring Boot), Python, C++, SQL, Node.js
+  - 🧰: Docker, Kubernetes, GCP, Azure, Kafka, Elasticsearch, <a href="https://maps.app.goo.gl/sXrCbFBEG7dEdJwn8" target="_blank">good coffee</a>
+  - 👨🏻: <a href="https://open.spotify.com/playlist/6IcOURt7IoZIem8AZJF64m?si=LvcIgGIaQv2vZNrUpoxB_w" target="_blank">Curating no-skip playlists</a>, <a href="https://en.wikipedia.org/wiki/French_Way" target="_blank">walking</a>, <a href="https://www.ultimate-guitar.com/u/wshin0128" target="_blank">playing guitar</a>, <a href="https://hooversun.com/schools/riverchase-elementary-celebrates-garden-growth828/" target="_blank">building things in real-life</a>
+- 💬 **Ask me about:** Microservices, system design, or the best food spots in Nob Hill
+
+<div align="left">
+  <a href="https://linkedin.com/in/woodyshin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:wshin0128@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br/>
+
+### Want to connect?
+📫 You can reach me directly at <a href="mailto:wshin0128@gmail.com">wshin0128@gmail.com</a>
